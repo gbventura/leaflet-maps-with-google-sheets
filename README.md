@@ -5,7 +5,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 
 ## Live links (replace with your own)
 - Leaflet Map https://gbventura.github.io/Hispanic_Periodicals/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1p-ZMBCxy-OyHzjpIalIIl0geAonQKip_kuKtnZcpoTM/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1Dgmet1-g2BzuTCHTaTHrkeMwwdftR8nh48Q0Qpz-IBc/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-maps-with-google-sheets.html

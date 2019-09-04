@@ -4,8 +4,8 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://RecoveryAPP.github.io/NEHmap/index.html
-- Google Sheets template https://docs.google.com/spreadsheets/d/1cVjdp24W-e_KnauQN_3VEmIpopIb8fJr6VzbnWpz8-M/edit#gid=164271551
+- Leaflet Map https://github.com/gbventura/Hispanic_Periodicals
+- Google Sheets template https://docs.google.com/spreadsheets/d/1p-ZMBCxy-OyHzjpIalIIl0geAonQKip_kuKtnZcpoTM/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-maps-with-google-sheets.html
